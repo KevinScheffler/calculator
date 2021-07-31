@@ -1,0 +1,19 @@
+body {
+  background-color: #f6f6f6;
+}
+
+.container {
+  width: 356px;
+  height: 520px;
+  border-radius: 15px;
+  padding: 20px;
+  border: 2px #000 solid;
+  color: #aaa;
+  background-color: #aaa;
+  margin: auto;
+}
+
+.screen {
+  height: 75px;
+  width: 75px;
+}
